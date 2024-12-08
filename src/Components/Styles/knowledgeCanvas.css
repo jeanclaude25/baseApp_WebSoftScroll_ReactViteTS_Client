@@ -1,0 +1,24 @@
+.knowledgeCanvas{
+    position: relative;
+    width: 100vw;
+    height: 100%;
+    z-index: 50;
+    left: 0;
+    }
+
+.virtualApp {
+        width: 12.5em;
+        height: 24em;
+        background: #f0f0f0;
+        border-radius: 3px;
+        overflow-y: auto;
+        padding: 0;
+        overflow: hidden;
+    }
+
+.wrapper {
+padding: 10px;
+transform-origin: top left;
+background-color: red;
+color: white;
+}
